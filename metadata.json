@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Carrito de Compras con Stock",
+  "description": "Una aplicación de demostración que simula un sistema de carrito de compras donde el stock de productos se descuenta en tiempo real al agregarlos al carrito.",
+  "requestFramePermissions": []
+}
